@@ -1,0 +1,25 @@
+ 1993  cd movies_lib/
+ 1994  npm install
+ 1995  npm run dev
+ 1996  code .
+ 1989  code .
+ 1990  npm run deve
+ 1991  npm run dev
+ 1992  ls
+ 1993  touch src/pages/ Home.jsx Movies.jsx Search.jsx
+ 1994  ls
+ 1995  ls .jsx
+ 1996  ls *.jsx
+ 1997  mv *.jsx src/pages/
+ 1998  touch src/pages (Home.css Search.css Movie.css )
+ 1999  touch src/pages [ Home.css Search.css Movie.css ]
+ 2000  ls *.css
+ 2001  mv *.css src/pages/
+ 2002  npm run dev
+ 2003  npm i react-router-dom
+ 2004  npm run dev
+ 2005  ls
+ 2006  mkdir src/components
+ 2007  npm i react-icons
+ 2008  npm run dev
+ 2009  git init
