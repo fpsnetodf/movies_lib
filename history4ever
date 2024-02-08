@@ -23,3 +23,5 @@
  2007  npm i react-icons
  2008  npm run dev
  2009  git init
+ 2010  git add .
+ 2011  git commit -m "movie"
